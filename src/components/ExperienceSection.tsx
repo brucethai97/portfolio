@@ -1,40 +1,22 @@
 const experiences = [
   {
-    period: "2025 — Present",
-    company: "Welite Digital",
-    role: "Fullstack Javascript Engineer",
-    description: "Collaborating directly with overseas clients to deliver frontend & backend solutions.",
+    period: "09/2025 — Present",
+    company: "Polish Outsourcing Company",
+    role: "Fullstack Software Engineer",
+    description: "Collaborate directly with overseas clients to analyze requirements and deliver frontend and backend solutions.",
     remote: true,
   },
   {
-    period: "2024 — 2025",
-    company: "BnK Solution",
-    role: "Frontend Team Lead",
-    description: "Led 15 developers on enterprise banking systems. Oversaw architecture, code quality, and delivery.",
+    period: "03/2023 — 09/2025",
+    company: "Vietnamese Outsourcing Company",
+    role: "Fullstack Software Engineer, Frontend Technical Lead",
+    description: "Designed and implemented frontend solutions for client business problems and ensured readiness for client delivery.",
   },
   {
-    period: "2022 — 2024",
-    company: "ETC",
-    role: "Frontend Engineer",
-    description: "Designed frontend solutions for client business problems and ensured product delivery.",
-  },
-  {
-    period: "2020 — 2022",
-    company: "VMO",
-    role: "Frontend Engineer",
-    description: "Requirements collection from overseas clients, business analysis, and product development.",
-  },
-  {
-    period: "2019 — 2020",
-    company: "BnK Solution",
-    role: "Frontend Engineer",
-    description: "Implemented and maintained frontend codebases for enterprise projects.",
-  },
-  {
-    period: "2019",
-    company: "FPT Software",
-    role: "Developer",
-    description: "Developed internal tools integrated with existing systems.",
+    period: "05/2019 — 09/2023",
+    company: "Vietnamese Outsourcing Company",
+    role: "Software Engineer",
+    description: "Developed internal tools designed to integrate seamlessly with existing systems.",
   },
 ];
 

@@ -1,73 +1,108 @@
-# React + TypeScript + Vite
+# Hi there, I'm Pham Hong Thai
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Senior Fullstack Software Engineer  
+React | Next.js | Angular | NestJS | React Native  
+7+ years building enterprise web and mobile products
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## About Me
 
-## React Compiler
+- Senior Fullstack Software Engineer with 7 years of experience in large-scale enterprise applications
+- Strong expertise in React and NestJS, with hands-on experience in Next.js, Angular, and React Native
+- Experienced in banking, AI computer vision, and fintech products
+- Worked directly with international clients and cross-functional teams in daily English communication
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## Skills
 
-If you are developing a production application, we recommend updating the configuration to enable type-aware lint rules:
+**Frontend**
+- React, Next.js, Angular
+- Micro-frontend Architecture
 
-```js
-export default defineConfig([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
+**Backend**
+- NestJS, GraphQL
+- Event-Driven Architecture
+- Multi-tenant Architecture
 
-      // Remove tseslint.configs.recommended and replace with this
-      tseslint.configs.recommendedTypeChecked,
-      // Alternatively, use this for stricter rules
-      tseslint.configs.strictTypeChecked,
-      // Optionally, add this for stylistic rules
-      tseslint.configs.stylisticTypeChecked,
+**Databases**
+- SQLite, PostgreSQL, MongoDB
 
-      // Other configs...
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
-```
+**UI / CSS**
+- MUI, Ant Design, Taiga UI
+- Tailwind CSS, Bootstrap
 
-You can also install [eslint-plugin-react-x](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-x) and [eslint-plugin-react-dom](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-dom) for React-specific lint rules:
+**Infrastructure**
+- Docker
+- GitHub Actions, GitLab CI
+- Kong API Gateway
 
-```js
-// eslint.config.js
-import reactX from 'eslint-plugin-react-x'
-import reactDom from 'eslint-plugin-react-dom'
+---
 
-export default defineConfig([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
-      // Enable lint rules for React
-      reactX.configs['recommended-typescript'],
-      // Enable lint rules for React DOM
-      reactDom.configs.recommended,
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
-```
+## Work Experience
+
+### 09/2025 - Present | Polish Outsourcing Company
+**Fullstack Software Engineer**
+- Collaborate directly with overseas clients to analyze requirements and deliver frontend and backend solutions
+
+### 03/2023 - 09/2025 | Vietnamese Outsourcing Company
+**Fullstack Software Engineer, Frontend Technical Lead**
+- Designed and implemented frontend solutions for client business problems
+- Ensured product readiness and delivery quality for enterprise clients
+
+### 05/2019 - 09/2023 | Vietnamese Outsourcing Company
+**Software Engineer**
+- Developed internal tools designed to integrate seamlessly with existing systems
+
+---
+
+## Key Projects
+
+### My Candidate AI (Software Engineer, Team size: 2)
+- Developed modern user-centric websites, implemented SEO best practices, and integrated Stripe payment gateways
+- Tech: Next.js, Domino, Stripe, Tailwind CSS, GitHub Actions
+
+### FXHUB (Frontend Technical Lead, Team size: 15)
+- Collaborated with the client BA team to propose optimal frontend solutions, then led implementation and delivery
+- Tech: Angular 16, Micro-frontend, Taiga UI, Kong API Gateway, Keycloak, Ag-grid
+
+### MSM (Software Engineer, Team size: 12)
+- Built an internal workflow management system supporting multiple business processes
+- Tech: React, MUI, CKEditor, GitLab CI
+
+### ITS (Software Engineer, Team size: 10)
+- Designed and implemented a highway route management system for large-scale infrastructure projects
+- Tech: React, Ant Design, RTK Query, Leaflet, OpenStreetMap
+
+### EVideos (Software Engineer, Team size: 7)
+- Built a system to manage AI traffic cameras, detect traffic behaviors, and provide real-time alerts on interactive maps
+- Tech: React, Ant Design, RTK Query, OpenStreetMap, Socket.IO, Electron
+
+### Egene (Software Engineer - Mobile, Team size: 8)
+- Developed cross-platform mobile apps for task management, calendars, check-ins, and approval workflows
+- Tech: React Native, CodePush, AppCenter
+
+### EPAY (Software Engineer - Mobile, Team size: 15)
+- Built and maintained a secure e-wallet app with optimized transaction flows on Android and iOS
+- Tech: React Native, CodePush, AppCenter
+
+### Amperfi (Software Engineer, Team size: 10)
+- Collaborated closely with clients through daily syncs to implement a resource management platform for AI product development
+- Tech: React, MUI
+
+---
+
+## Key Achievements
+
+- Led a frontend team of 15 developers for enterprise banking systems
+- Delivered multiple micro-frontend applications
+- Built fintech systems including FX trading, digital signature, and e-wallet products
+
+---
+
+## Contact
+
+- Email: brucethai97@gmail.com
+- LinkedIn: https://www.linkedin.com/in/phamhongthai
+- Address: Ha Noi, Vietnam

@@ -8,7 +8,7 @@ const HeroSection = () => {
       
       <div className="max-w-3xl mx-auto text-center relative z-10">
         <div className="inline-block font-mono text-xs text-primary bg-primary/10 px-3 py-1.5 rounded-full border border-primary/20 animate-fade-up">
-          // senior frontend engineer
+          // senior fullstack software engineer
         </div>
         
         <h1 className="text-5xl md:text-7xl font-bold mt-8 mb-6 animate-fade-up-delay-1 text-foreground tracking-tight">
@@ -17,7 +17,9 @@ const HeroSection = () => {
         </h1>
         
         <p className="text-base md:text-lg text-muted-foreground leading-relaxed max-w-xl mx-auto animate-fade-up-delay-2">
-          7+ years building large-scale enterprise web & mobile applications in 
+          7+ years building enterprise web and mobile products with strong expertise in
+          <span className="text-foreground font-medium"> React</span> and
+          <span className="text-foreground font-medium"> NestJS</span> across
           <span className="text-foreground font-medium"> banking</span>,
           <span className="text-foreground font-medium"> AI</span>, and
           <span className="text-foreground font-medium"> fintech</span>.
