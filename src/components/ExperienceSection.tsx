@@ -1,22 +1,40 @@
 const experiences = [
   {
     period: "09/2025 — Present",
-    company: "Polish Outsourcing Company",
-    role: "Fullstack Software Engineer",
-    description: "Collaborate directly with overseas clients to analyze requirements and deliver frontend and backend solutions.",
+    company: "Welite Digital",
+    role: "Fullstack Javascript Engineer",
+    description: "Collaborate directly with overseas clients to analyze requirements and deliver effective frontend and backend solutions.",
     remote: true,
   },
   {
-    period: "03/2023 — 09/2025",
-    company: "Vietnamese Outsourcing Company",
-    role: "Fullstack Software Engineer, Frontend Technical Lead",
-    description: "Designed and implemented frontend solutions for client business problems and ensured readiness for client delivery.",
+    period: "03/2024 — 09/2025",
+    company: "BnK Solution",
+    role: "Frontend Engineer",
+    description: "Served as Frontend Team Lead for banking client-side systems, leading and mentoring a team of 15 developers. Oversaw frontend architecture, code quality, and delivery across multiple modules.",
   },
   {
-    period: "05/2019 — 09/2023",
-    company: "Vietnamese Outsourcing Company",
-    role: "Software Engineer",
-    description: "Developed internal tools designed to integrate seamlessly with existing systems.",
+    period: "03/2022 — 02/2024",
+    company: "ETC",
+    role: "Frontend Engineer",
+    description: "Designed and implemented frontend solutions to solve client business problems and ensured product readiness for client delivery.",
+  },
+  {
+    period: "11/2020 — 03/2022",
+    company: "VMO",
+    role: "Frontend Developer",
+    description: "Collaborated with the team to collect requirements from overseas clients, analyze business needs, and develop products for client handover.",
+  },
+  {
+    period: "09/2019 — 10/2020",
+    company: "BnK Solution",
+    role: "Frontend Developer",
+    description: "Implemented and maintained frontend codebases.",
+  },
+  {
+    period: "06/2019 — 08/2019",
+    company: "FPT Software",
+    role: "Developer",
+    description: "Developed internal tools designed to integrate seamlessly with systems.",
   },
 ];
 

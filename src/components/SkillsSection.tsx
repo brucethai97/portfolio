@@ -1,9 +1,10 @@
 const skills = [
-  { category: "Frontend", items: ["React", "Next.js", "Angular", "Micro-frontend Architecture"] },
-  { category: "Backend", items: ["NestJS", "GraphQL", "Event-Driven Architecture", "Multi-tenant Architecture"] },
-  { category: "Databases", items: ["SQLite", "PostgreSQL", "MongoDB"] },
-  { category: "UI / CSS", items: ["MUI", "Ant Design", "Taiga UI", "Tailwind CSS", "Bootstrap"] },
+  { category: "Languages", items: ["JavaScript", "TypeScript", "Java"] },
+  { category: "Frameworks", items: ["Angular", "React", "Next.js", "NestJS", "Spring Boot", "React Native"] },
+  { category: "UI / CSS", items: ["MUI", "Ant Design", "Taiga UI", "Material", "PrimeNG", "Radix", "Tailwind CSS", "Bootstrap"] },
   { category: "Infrastructure", items: ["Docker", "GitHub Actions", "GitLab CI", "Kong API Gateway"] },
+  { category: "Core", items: ["Micro-frontend", "Event-driven Architecture", "Multi-tenant Architecture", "CI/CD", "System Optimization"] },
+  { category: "AI Tools", items: ["Cursor", "GitHub Copilot", "Claude", "NotebookLM"] },
 ];
 
 const SkillsSection = () => {

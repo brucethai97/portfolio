@@ -1,4 +1,4 @@
-import { Mail, MapPin, Linkedin, ChevronDown } from "lucide-react";
+import { Mail, MapPin, Globe, ChevronDown } from "lucide-react";
 
 const HeroSection = () => {
   return (
@@ -8,7 +8,7 @@ const HeroSection = () => {
       
       <div className="max-w-3xl mx-auto text-center relative z-10">
         <div className="inline-block font-mono text-xs text-primary bg-primary/10 px-3 py-1.5 rounded-full border border-primary/20 animate-fade-up">
-          // senior fullstack software engineer
+          // senior frontend engineer
         </div>
         
         <h1 className="text-5xl md:text-7xl font-bold mt-8 mb-6 animate-fade-up-delay-1 text-foreground tracking-tight">
@@ -17,26 +17,26 @@ const HeroSection = () => {
         </h1>
         
         <p className="text-base md:text-lg text-muted-foreground leading-relaxed max-w-xl mx-auto animate-fade-up-delay-2">
-          7+ years building enterprise web and mobile products with strong expertise in
-          <span className="text-foreground font-medium"> React</span> and
-          <span className="text-foreground font-medium"> NestJS</span> across
+          7+ years building large-scale enterprise web & mobile applications with strong expertise in
+          <span className="text-foreground font-medium"> Angular</span> and
+          <span className="text-foreground font-medium"> React</span> across
           <span className="text-foreground font-medium"> banking</span>,
           <span className="text-foreground font-medium"> AI</span>, and
           <span className="text-foreground font-medium"> fintech</span>.
         </p>
         
         <div className="flex flex-wrap items-center justify-center gap-5 mt-10 animate-fade-up-delay-3">
-          <a href="mailto:brucethai97@gmail.com" className="flex items-center gap-2 text-sm text-muted-foreground hover:text-primary transition-colors font-mono">
+          <a href="mailto:timmypham.dev@gmail.com" className="flex items-center gap-2 text-sm text-muted-foreground hover:text-primary transition-colors font-mono">
             <Mail size={14} />
-            brucethai97@gmail.com
+            timmypham.dev@gmail.com
           </a>
-          <a href="https://linkedin.com/in/phamhongthai" target="_blank" rel="noopener noreferrer" className="flex items-center gap-2 text-sm text-muted-foreground hover:text-primary transition-colors font-mono">
-            <Linkedin size={14} />
-            /in/phamhongthai
+          <a href="https://phamhongthai.vercel.app" target="_blank" rel="noopener noreferrer" className="flex items-center gap-2 text-sm text-muted-foreground hover:text-primary transition-colors font-mono">
+            <Globe size={14} />
+            phamhongthai.vercel.app
           </a>
           <span className="flex items-center gap-2 text-sm text-muted-foreground font-mono">
             <MapPin size={14} />
-            Ha Noi, VN
+            Viet Nam
           </span>
         </div>
         

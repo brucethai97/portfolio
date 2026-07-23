@@ -10,7 +10,7 @@ const FooterSection = () => {
           Interested in building something great together? Let's talk.
         </p>
         <a
-          href="mailto:brucethai97@gmail.com"
+          href="mailto:timmypham.dev@gmail.com"
           className="inline-block px-6 py-2.5 rounded border border-primary text-primary font-mono text-sm hover:bg-primary hover:text-primary-foreground transition-all duration-300 hover:glow"
         >
           sendEmail()
