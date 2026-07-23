@@ -1,4 +1,4 @@
-import { Mail, MapPin, Globe, ChevronDown } from "lucide-react";
+import { Mail, MapPin, Linkedin, ChevronDown } from "lucide-react";
 
 const HeroSection = () => {
   return (
@@ -30,9 +30,9 @@ const HeroSection = () => {
             <Mail size={14} />
             timmypham.dev@gmail.com
           </a>
-          <a href="https://phamhongthai.vercel.app" target="_blank" rel="noopener noreferrer" className="flex items-center gap-2 text-sm text-muted-foreground hover:text-primary transition-colors font-mono">
-            <Globe size={14} />
-            phamhongthai.vercel.app
+          <a href="https://www.linkedin.com/in/phamhongthai/" target="_blank" rel="noopener noreferrer" className="flex items-center gap-2 text-sm text-muted-foreground hover:text-primary transition-colors font-mono">
+            <Linkedin size={14} />
+            linkedin.com/in/phamhongthai/
           </a>
           <span className="flex items-center gap-2 text-sm text-muted-foreground font-mono">
             <MapPin size={14} />
