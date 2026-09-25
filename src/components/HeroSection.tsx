@@ -18,7 +18,7 @@ const HeroSection = () => {
         
         <p className="text-base md:text-lg text-muted-foreground leading-relaxed max-w-xl mx-auto animate-fade-up-delay-2">
           7+ years building enterprise web and mobile products with strong expertise in
-          <span className="text-foreground font-medium"> React</span> and
+          <span className="text-foreground font-medium"> React, React Native</span> and
           <span className="text-foreground font-medium"> NestJS</span> across
           <span className="text-foreground font-medium"> banking</span>,
           <span className="text-foreground font-medium"> AI</span>, and

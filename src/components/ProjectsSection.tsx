@@ -51,6 +51,13 @@ const projects = [
     tech: ["React Native", "CodePush", "AppCenter"],
   },
   {
+    name: "AloTruck",
+    role: "Software Engineer (Mobile)",
+    team: 2,
+    description: "Logistics management system for tracking and managing truck shipments.",
+    tech: ["React Native", "CodePush", "AppCenter"],
+  },
+  {
     name: "Amperfi",
     role: "Software Engineer",
     team: 10,

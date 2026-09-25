@@ -1,9 +1,11 @@
 const skills = [
   { category: "Frontend", items: ["React", "Next.js", "Angular", "Micro-frontend Architecture"] },
   { category: "Backend", items: ["NestJS", "GraphQL", "Event-Driven Architecture", "Multi-tenant Architecture"] },
+  { category: "Mobile", items: ["React Native", "Expo"] },
   { category: "Databases", items: ["SQLite", "PostgreSQL", "MongoDB"] },
   { category: "UI / CSS", items: ["MUI", "Ant Design", "Taiga UI", "Tailwind CSS", "Bootstrap"] },
   { category: "Infrastructure", items: ["Docker", "GitHub Actions", "GitLab CI", "Kong API Gateway"] },
+
 ];
 
 const SkillsSection = () => {
